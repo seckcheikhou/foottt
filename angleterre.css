@@ -1,0 +1,203 @@
+*{
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	
+}
+.div1{
+	background-color: black;
+	height: 170px;
+	width: 100%;
+display: flex;
+}
+.bad1{
+width: 25%;
+background-image: url(grap32);
+}
+.bad1 img{
+	width: 100%;
+	height: 170px;
+}
+.bad2{
+width: 50%;
+background-color: yellow;	
+}
+.bad2 img{
+	width: 100%;
+	height: 170px;
+}
+.bad3{
+width: 25%;	
+background-color: pink;
+}
+.bad3 img{
+	width: 100%;
+	height: 170px;
+}
+.navbar{
+	width: 100%;
+	background-color: green;
+	padding: 25px;
+	text-align: left;
+	margin-bottom: 10px;
+	letter-spacing: 5px;
+	word-spacing: 10px;
+	font-size: 5px;
+	padding: 5px;
+    height: 80px;
+    position: fixed;
+}
+.navbar a{
+	color: white;
+	font-size: 20px;
+	font-weight: 200;
+	margin-left: 25px;
+	transition: color 2s;
+}
+.navbar.max-widht{
+	width: 1300px;
+	display: flex;
+	justify-content: space-between;
+	margin: auto;
+}
+.menu{
+	padding-top: 20px
+}
+.menu li{
+	display: inline-block;
+}
+.menu li a {
+	color: white;
+	font-size: 20px;
+	font-weight: 200;
+	margin-left: 25px;
+	transition: color 2s;
+}	
+.menu li a:hover{
+	color: black;
+}
+.mac1{
+display: flex;
+}
+.div2{
+    
+	width: 75%;
+height: 1320px;
+background-color: crimson;
+margin-left: 50px;
+margin-top: 40px;
+
+}
+.info1{
+	height: 300px;
+	width: 100%;
+	background-color: white;
+	display: flex;
+}
+.info1gauche{
+width: 50%;
+background-color: yellow;
+}
+.img1{
+	width: 100%;
+	height: 300px;
+}
+.info1droite{
+	background-color: white;
+	width: 50%;
+}
+.text1{
+padding-top: 20px;
+padding-left: 10px;
+padding-right: 10px;
+}
+.text1 span{
+	font-weight: 10px;
+
+}
+.text1 p{
+	font-size: 20px;
+	text-align: justify;
+}
+.info2{
+	height: 300px;
+	width: 100%;
+	background-color: white;
+	display: flex;
+	padding-top: 40px;
+}
+.info2gauche{
+width: 50%;
+background-color: yellow;
+}
+.info2droite{
+	background-color: white;
+	width: 50%;
+}
+.info3{
+	height: 300px;
+	width: 100%;
+	background-color: white;
+	display: flex;
+	padding-top: 40px;
+}
+.info3gauche{
+width: 50%;
+background-color: yellow;
+}
+.info3droite{
+	background-color: white;
+	width: 50%;
+}
+.info4{
+	height: 300px;
+	width: 100%;
+	background-color: white;
+	display: flex;
+	padding-top: 40px;
+}
+.info4gauche{
+width: 50%;
+background-color: yellow;
+}
+.info4droite{
+	background-color: white;
+	width: 50%;
+}
+.div3{
+ 
+	width: 25%;
+height: 1320px;
+background-color: green;
+margin-left: 20px;
+margin-top: 40px;
+}
+.spo1{
+width: 100%;
+height: 300px;
+background-color: black;
+margin-bottom: 120px;
+}
+.spo1 img{
+width: 100%;
+height: 300px;
+}
+.spo2{
+width: 100%;
+height: 300px;
+background-color: yellow;
+margin-bottom: 120px;
+}
+.spo2 img{
+width: 100%;
+height: 300px;
+}
+.spo3{
+width: 100%;
+height: 300px;
+background-color: pink;
+}
+.spo3 img{
+width: 100%;
+height: 300px;
+}
